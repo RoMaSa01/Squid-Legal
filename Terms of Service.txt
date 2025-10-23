@@ -20,7 +20,7 @@ RoMaSa01 no se hace responsable de daños directos, indirectos o incidentales de
 El Bot puede sufrir interrupciones o ser modificado en cualquier momento sin previo aviso. No se garantiza disponibilidad o soporte continuo.
 
 5. Privacidad y datos
-El Bot puede recopilar datos limitados, como IDs de usuario y mensajes necesarios para su funcionamiento. Consulta la Política de Privacidad en [URL de tu política, si la tienes].
+El Bot puede recopilar datos limitados, como IDs de usuario y mensajes necesarios para su funcionamiento. Consulta la Política de Privacidad en https://github.com/RoMaSa01/Squid-Legal/blob/main/Privacy%20Policy.txt.
 
 6. Terminación del acceso
 El acceso al Bot puede revocarse en cualquier momento si se incumplen estos términos o si se detecta un uso indebido.
