@@ -1,0 +1,47 @@
+POLÍTICA DE PRIVACIDAD DEL BOT Squid
+Última actualización: 23/10/2025
+
+1. Introducción
+Esta Política de Privacidad explica cómo Squid (“el Bot”) recopila, utiliza y protege la información de los usuarios.
+Al utilizar el Bot, aceptas las prácticas descritas en esta política.
+
+2. Información que recopilamos
+Dependiendo de las funcionalidades del Bot, podemos recopilar:
+
+Identificadores de Discord (ID de usuario, ID de servidor, ID de canal).
+
+Nombres de usuario y nombres de servidor para su correcto funcionamiento.
+
+Preferencias o configuraciones que el usuario haya establecido mediante comandos.
+No recopilamos direcciones de correo electrónico, contraseñas ni otra información personal sensible.
+
+3. Uso de la información
+La información recopilada se utiliza únicamente para:
+
+Garantizar el funcionamiento correcto del Bot.
+
+Mejorar sus funcionalidades y rendimiento.
+
+Detectar y prevenir abusos, errores o comportamientos indebidos.
+
+4. Retención y eliminación de datos
+Los datos se conservan el tiempo necesario para la operación del Bot.
+Puedes solicitar la eliminación de tus datos en cualquier momento contactando con servidor de soporte: https://discord.gg/BQBd8Bxu.
+Si el Bot se elimina de tu servidor, los datos asociados podrán eliminarse automáticamente.
+
+5. Compartición de información
+No compartimos información con terceros salvo cuando sea necesario para:
+
+Cumplir obligaciones legales.
+
+Operar servicios de alojamiento o bases de datos de forma segura.
+
+6. Seguridad de los datos
+Implementamos medidas razonables (como restricciones de acceso y cifrado) para proteger la información de accesos no autorizados o pérdidas accidentales.
+
+7. Cambios en esta política
+Podemos actualizar esta política ocasionalmente. Las modificaciones se publicarán en esta página con una nueva fecha de “Última actualización”.
+
+8. Contacto
+Para preguntas o solicitudes relacionadas con esta Política de Privacidad, contacta en:
+https://discord.gg/BQBd8Bxu
